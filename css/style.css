@@ -8783,3 +8783,13 @@ textarea.form-control {
   100% {
     stroke-dasharray: 89, 200;
     stroke-dashoffset: -136px; } }
+    hr {
+      border: none;
+      border-top: 20rem solid #333;
+      color: #333;
+      overflow: visible;
+      margin-top: -50px;
+      margin-bottom: -350px;
+      text-align: center;
+      width: auto ;
+  }
