@@ -8785,11 +8785,11 @@ textarea.form-control {
     stroke-dashoffset: -136px; } }
     hr {
       border: none;
-      border-top: 20rem solid #333;
+      border-top: 10rem solid #333;
       color: #333;
-      overflow: visible;
+      overflow: auto;
       margin-top: -50px;
-      margin-bottom: -350px;
+      margin-bottom: -250px;
       text-align: center;
       width: auto ;
   }
