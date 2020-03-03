@@ -8113,7 +8113,7 @@ textarea.form-control {
 .ftco-footer {
   font-size: 16px;
   background: #121212;
-  padding: 8em 0; }
+  padding: 15em 0; }
   .ftco-footer .ftco-footer-logo {
     text-transform: uppercase;
     letter-spacing: .1em; }
@@ -8806,4 +8806,6 @@ textarea.form-control {
       text-align: center;
       width: auto ;
   }
- 
+ .Veille  {
+   text-align: center;
+ }  
